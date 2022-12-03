@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on any of the freeLancing webProjects.
 - 🤝 I'm looking for help with Data Structures & Algorithms
 - 
-- 📧 Reach me => kundala.bhawani@outlook.com
+- 🔗 Reach me at -
+      - 📧 kundala.bhawani@outlook.com
+      - 📝 https://www.linkedin.com/in/bhawani-k
 
 <!---
 Bhawani-K/Bhawani-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
